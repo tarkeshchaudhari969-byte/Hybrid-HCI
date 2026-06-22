@@ -1,0 +1,20 @@
+# Python virtual environments
+gest/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PlatformIO
+.pio/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+gest/
+Gesture-Recognition/gest/
